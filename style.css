@@ -200,6 +200,7 @@ li{
     body{
         background-image: url(./images/bg-pattern.svg);
         background-repeat: no-repeat;
+        background-size: cover;
     }
     .container{
         width:600px;
